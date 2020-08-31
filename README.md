@@ -12,6 +12,14 @@
       ![image](https://github.com/yzq327/Linux-/blob/master/exercise5.png)
       Exercise 6:
       ![image](https://github.com/yzq327/Linux-/blob/master/exercise6.png)
+      Exercise 7:
+      ![image](https://github.com/yzq327/Linux-/blob/master/exercise7.png)
+      Exercise 8:
+      ![image](https://github.com/yzq327/Linux-/blob/master/exercise8.png)
+      Exercise 9:
+      ![image](https://github.com/yzq327/Linux-/blob/master/exercise9.png)
+      Exercise 10:
+      ![image](https://github.com/yzq327/Linux-/blob/master/exercise10.png)
       
 练习二：  
 mkdir cli-practice  
