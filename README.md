@@ -13,7 +13,7 @@
       Exercise 6:
       ![image](https://github.com/yzq327/Linux-/blob/master/exercise6.png)
       
-练习二：
+练习二：  
 mkdir cli-practice  
 touch readme.md  
 cat >> ./readme.md << EOF  
