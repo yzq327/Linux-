@@ -1,5 +1,5 @@
-# Linux-命令基础
-练习一：
+# Linux-命令基础  
+练习一：    
       Exercise 1：
       ![image](https://github.com/yzq327/Linux-/blob/master/exercise1.png)
       Exercise 2:
@@ -14,20 +14,20 @@
       ![image](https://github.com/yzq327/Linux-/blob/master/exercise6.png)
       
 练习二：
-mkdir cli-practice
-touch readme.md
-cat >> ./readme.md << EOF
-Hi there,this is a readme file.
-EOF
-cat >> ./readme.md <<EOF
-This is the second line of the readme file.
-EOF
-mv readme.md readme.txt
-mkdir document
-mv readme.txt document/introduction.txt
-cp introduction.txt readme.txt
-echo The quick brown for jumps over a lazy dog > readme.txt
-cp -r document docs
-rm -r document
-mkdir -p parent/child/docs
-cp ~/cli-practice/docs/introduction.txt ~/cli-practioce/parent/child/docs/introduction.txt
+mkdir cli-practice  
+touch readme.md  
+cat >> ./readme.md << EOF  
+Hi there,this is a readme file.  
+EOF  
+cat >> ./readme.md <<EOF  
+This is the second line of the readme file.  
+EOF  
+mv readme.md readme.txt  
+mkdir document  
+mv readme.txt document/introduction.txt  
+cp introduction.txt readme.txt  
+echo The quick brown for jumps over a lazy dog > readme.txt  
+cp -r document docs  
+rm -r document  
+mkdir -p parent/child/docs  
+cp ~/cli-practice/docs/introduction.txt ~/cli-practioce/parent/child/docs/introduction.txt  
